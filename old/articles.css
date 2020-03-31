@@ -1,0 +1,16 @@
+.head{
+  font-family: Arial;
+  font-weight: bold;
+  color: #0000FF;
+}
+
+.subhead{
+  font-family: Arial;
+  font-weight: bold;
+  color: #800000;      
+}
+
+.text{
+  font-family: Arial;
+  color: #000000;    
+}
